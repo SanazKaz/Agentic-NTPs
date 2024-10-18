@@ -1,0 +1,11 @@
+.env
+.cache
+__pycache__
+APIs/__pycache__/
+
+*.csv
+*.json
+*.jsonl
+
+ pmc_papers/*
+ .DS_Store
