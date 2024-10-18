@@ -10,4 +10,5 @@ APIs/__pycache__/
  pmc_papers/*
  .DS_Store
  *.txt
+ *.log
  
