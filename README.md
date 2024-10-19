@@ -1,6 +1,6 @@
 # Project Setup Guide
 
-Welcome to my GitHub for Rotation Project 2: New Target Proposal Generation Using Agentic LLMs. Here you'll find a set of projects that work seperately, each providing unique features.
+Welcome to my GitHub for Rotation Project 2: New Target Proposal (NTP) Generation Using Agentic LLMs. Here you'll find a set of projects that work seperately, each providing unique features.
 
 Reflexion.ipynb: implements langchain's version of Reflexion with PubMed API - this version brings back full text.
 RATT_Embedded_V2: Uses the embedded articles + RAG to generate its answers 
@@ -12,6 +12,7 @@ The original code for RATT can be found here: https://github.com/jinghanzhang199
 and for Langchains version of Reflexion: https://github.com/langchain-ai/langgraph/blob/main/examples/reflexion/reflexion.ipynb
 and PaperQA: https://github.com/Future-House/paper-qa
 
+You can find results of the generated NTPs for each of the algorithms alongisde the prompts used in the Results folder.
 
 Follow the steps below to set up your environment and start using the projects.
 
